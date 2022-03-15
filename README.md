@@ -21,14 +21,6 @@ Pre-requisites
 - Complete Project 3: Lunch Tray
 - Complete Unit 4 of Android Basics in Kotlin
 
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-
 Tasks
 ---------------
 
